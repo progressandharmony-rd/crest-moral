@@ -21,3 +21,5 @@ MORAL（Morphoception-Oriented Reasoning and Action with Language）は、現実
 研究領域「実環境知能システムを実現する基礎理論と基盤技術の創出」
 
 研究課題「身体が考えるロボット基盤モデル：MORAL」
+
+グラント番号 JPMJCR2553
