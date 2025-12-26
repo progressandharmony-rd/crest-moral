@@ -4,7 +4,6 @@ title: Team
 permalink: /team/
 ---
 
-## 研究組織
 - PI:
   堂前幸康（AIST）
 - Co-PI:
