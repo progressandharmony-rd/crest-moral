@@ -5,11 +5,9 @@ permalink: /team/
 ---
 
 - PI:
-  堂前幸康 Yukiyasu Domae
+  堂前幸康 (Yukiyasu Domae)
 - Co-PI
-  坂東宜昭 Yoshinori Bando
-  室岡雅樹 Masaki Murooka
-  八木拓真 Takuma Yagi
+  坂東宜昭 (Yoshinori Bando), 室岡雅樹 (Masaki Murooka), 八木拓真 (Takuma Yagi)
 - Members:
   元田智大 Tomonori Motoda
   中條亨一 Ryoichi Nakajo
