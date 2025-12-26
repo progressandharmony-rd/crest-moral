@@ -1,4 +1,4 @@
-<img width="442" height="14" alt="image" src="https://github.com/user-attachments/assets/a2897636-cd49-4065-be90-e652b11f56d4" />---
+---
 layout: page
 title: Team
 permalink: /team/
