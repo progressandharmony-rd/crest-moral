@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## 本プロジェクトについて
+## 身体中心のモダリティ統合
 MORAL（Morphoception-Oriented Reasoning and Action with Language）は、現実世界で動き、環境や人と相互作用しながら学習・適応するフィジカルAIの基盤構築を目的としたJST CREST 研究プロジェクトです。
 
 近年の人工知能は、視覚や言語といった情報処理において顕著な進展を遂げてきましたが、実世界での行為生成や器用な操作、身体を介した知能の獲得には依然として多くの課題が残されています。
