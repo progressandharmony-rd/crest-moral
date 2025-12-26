@@ -3,11 +3,13 @@ layout: home
 title: Home
 ---
 
+<!--
 # Project MORAL
 
 **身体が考えるロボット基盤モデル：MORAL**
 
 ---
+-->
 
 ## News
 {% for post in site.posts limit:5 %}
