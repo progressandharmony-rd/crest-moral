@@ -3,7 +3,7 @@ layout: home
 ---
 
 # Project MORAL
-JST CREST（プロジェクト正式名称をここに）
+身体が考えるロボット基盤モデル：MORAL
 
 ---
 
