@@ -4,15 +4,15 @@ title: Team
 permalink: /team/
 ---
 
-## PI
+## PI (研究代表者）
 - 堂前幸康 / Yukiyasu Domae (AIST)
 
-## Co-PI
+## Co-PI (主たる共同研究者）
 - 坂東宜昭 / Yoshinori Bando (AIST)
 - 室岡雅樹 / Masaki Murooka (AIST)
 - 八木拓真 / Takuma Yagi (AIST)
 
-## Members
+## Members (共同研究者）
 - 元田智大 / Tomonori Motoda (AIST)
 - 中條亮一 / Ryoichi Nakajo (AIST)
 - 白井圭佑 / Keisuke Shirai (AIST)
